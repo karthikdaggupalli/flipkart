@@ -1,0 +1,269 @@
+.bro{
+    height: 60px;
+}
+
+.kart{
+
+    height: 20px;
+}
+
+.karthik{
+    margin-left: 50px;
+}
+
+.karthik1{
+    margin-left: 50px;
+    width: 500px;
+    text-align: center;
+}
+
+.karthik2{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.karthik3{
+    margin-left: 50px;
+    font-size: 20px;
+
+}
+
+.karthik4{
+    margin-left: 50px;
+    font-size: 20px;
+
+}
+
+.main{
+    margin-top: 50px;
+    height: 170px;
+    /* border: 2px solid red; */
+}
+
+.srt{
+    margin-top: 10px;
+}
+
+.best{
+    height: 250px;
+    width: 100%;
+    margin-top: 20px;
+    /* background-color: rgb(47, 104, 153); */
+    /* border: 2px solid red; */
+}
+
+.top{
+    height: 290px;
+    /* border: 2px solid red; */
+    background-color: aliceblue;
+}
+
+
+/* .sir
+{
+    margin-left: -30px;
+} */
+
+.sir1
+{
+    width: 200px;
+    
+}
+/* 
+.sir4{
+    width: 120px;
+} */
+
+.cardt {
+    margin-left: 10px;
+    width: 430px;
+    height: 250px;
+
+}
+
+.cards img{
+
+    width: 430px;
+    height: 250px;
+}
+
+.cards{
+    margin-top: 20px;
+    
+}
+
+.cards1{
+    margin-top: 10px;
+}
+
+.cards2{
+    margin-top: 10px;
+}
+
+.hello{
+    height: 300px;
+    /* border: 2px solid red; */
+    background-color: aliceblue;
+    margin-top: 10px;
+}
+
+.lucky{
+    height: 540px;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+    background-color: aliceblue;
+
+}
+
+.luckycard{
+    margin-top: 10px;
+    height: 520px;
+    /* border: 2px solid red; */
+    width: 40%;
+    float: left;
+}
+
+.luckycard1 img{
+
+   margin-top: 20px;
+}
+
+.cards2 img{
+
+    width: 430px;
+    height: 250px;
+
+}
+
+.lucky1{
+    height: 560px;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+    background-color: aliceblue;
+}
+
+.cards5 img{
+
+    width: 430px;
+    height: 250px;
+}
+
+.footer{
+    margin-top: 20px;
+    height: 390px;
+    /* border: 2px solid red; */
+    background-color: rgb(19, 18, 18);
+}
+
+.foot{
+    height: 300px;
+    width: 190px;
+    /* border: 2px solid red; */
+    float: left;
+    color: aliceblue;
+    padding-top: 20px;
+}
+
+.foot1{
+    height: 300px;
+    width: 270px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 10px;
+    color: aliceblue;
+    padding: 20px;
+    border-left: solid 1px rgb(205, 216, 205) ;
+
+}
+
+.foot1 i {
+font-size: 30px;
+margin-left: 10px;
+}
+
+.foot1 i:hover{
+    color: yellow;
+}
+
+.chhh img{
+    margin-left: 200px;
+    padding: 5px;
+}
+
+.chhh input{
+    margin-left: 40px;
+    width: 330px;
+}
+
+.login{
+    background-color: aliceblue;
+    width: 70px;
+    border-radius: 10px;
+    border: none;
+}
+
+.color{
+    background-color: blue;
+}
+
+.header{
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.body img{
+  margin-left: 150px;
+  margin-top: 30px;
+  height: 500px;
+  width: 500px;
+}
+
+.body{
+    float: left;
+    
+   
+}
+
+.bodycon{
+    margin-left: 650px;
+    margin-top: 30px;
+    height: 500px;
+    width: 550px;
+    /* border: 2px solid red; */
+    background-color: rgb(237, 240, 243);
+}
+
+.bodycon input{
+    border: none;
+    border-bottom: 1px solid rgb(34, 33, 33);
+    width: 450px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.bodycon p{
+
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.bodycon button{
+    width: 450px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+
+@media (max-width:767px)
+{
+    .ranga{
+        margin-top: 60px;
+        background-color: red;
+    }
+
+
+
+}
+
